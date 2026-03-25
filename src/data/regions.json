@@ -1,62 +1,49 @@
 [
   {
-    "name": "São Paulo — Capital",
-    "slug": "sao-paulo",
+    "name": "Belo Horizonte — Capital",
+    "slug": "belo-horizonte",
     "cities": [
-      { "name": "Zona Norte", "slug": "zona-norte" },
-      { "name": "Zona Sul", "slug": "zona-sul" },
-      { "name": "Zona Leste", "slug": "zona-leste" },
-      { "name": "Zona Oeste", "slug": "zona-oeste" },
-      { "name": "Centro", "slug": "centro" }
-    ]
-  },
-  {
-    "name": "ABC Paulista",
-    "slug": "abc-paulista",
-    "cities": [
-      { "name": "Santo André", "slug": "santo-andre" },
-      { "name": "São Bernardo do Campo", "slug": "sao-bernardo-do-campo" },
-      { "name": "São Caetano do Sul", "slug": "sao-caetano-do-sul" },
-      { "name": "Diadema", "slug": "diadema" },
-      { "name": "Mauá", "slug": "maua" },
-      { "name": "Ribeirão Pires", "slug": "ribeirao-pires" },
-      { "name": "Rio Grande da Serra", "slug": "rio-grande-da-serra" }
+      { "name": "Centro", "slug": "centro" },
+      { "name": "Região Norte", "slug": "regiao-norte" },
+      { "name": "Região Sul", "slug": "regiao-sul" },
+      { "name": "Região Leste", "slug": "regiao-leste" },
+      { "name": "Região Oeste", "slug": "regiao-oeste" },
+      { "name": "Pampulha", "slug": "pampulha" }
     ]
   },
   {
     "name": "Região Metropolitana — Oeste",
     "slug": "regiao-metropolitana-oeste",
     "cities": [
-      { "name": "Osasco", "slug": "osasco" },
-      { "name": "Barueri", "slug": "barueri" },
-      { "name": "Carapicuíba", "slug": "carapicuiba" },
-      { "name": "Cotia", "slug": "cotia" },
-      { "name": "Itapevi", "slug": "itapevi" },
-      { "name": "Jandira", "slug": "jandira" },
-      { "name": "Santana de Parnaíba", "slug": "santana-de-parnaiba" },
-      { "name": "Taboão da Serra", "slug": "taboao-da-serra" }
+      { "name": "Contagem", "slug": "contagem" },
+      { "name": "Betim", "slug": "betim" },
+      { "name": "Ibirité", "slug": "ibirite" }
     ]
   },
   {
-    "name": "Região Metropolitana — Norte e Leste",
-    "slug": "regiao-metropolitana-norte-leste",
+    "name": "Região Metropolitana — Norte",
+    "slug": "regiao-metropolitana-norte",
     "cities": [
-      { "name": "Guarulhos", "slug": "guarulhos" },
-      { "name": "Mogi das Cruzes", "slug": "mogi-das-cruzes" },
-      { "name": "Itaquaquecetuba", "slug": "itaquaquecetuba" },
-      { "name": "Suzano", "slug": "suzano" },
-      { "name": "Ferraz de Vasconcelos", "slug": "ferraz-de-vasconcelos" },
-      { "name": "Poá", "slug": "poa" },
-      { "name": "Arujá", "slug": "aruja" }
+      { "name": "Ribeirão das Neves", "slug": "ribeirao-das-neves" },
+      { "name": "Santa Luzia", "slug": "santa-luzia" },
+      { "name": "Vespasiano", "slug": "vespasiano" },
+      { "name": "Lagoa Santa", "slug": "lagoa-santa" }
     ]
   },
   {
-    "name": "Região Metropolitana — Sul",
-    "slug": "regiao-metropolitana-sul",
+    "name": "Região Metropolitana — Leste e Sul",
+    "slug": "regiao-metropolitana-leste-sul",
     "cities": [
-      { "name": "Embu das Artes", "slug": "embu-das-artes" },
-      { "name": "Itapecerica da Serra", "slug": "itapecerica-da-serra" },
-      { "name": "Embu-Guaçu", "slug": "embu-guacu" }
+      { "name": "Sabará", "slug": "sabara" },
+      { "name": "Nova Lima", "slug": "nova-lima" }
+    ]
+  },
+  {
+    "name": "Interior de Minas",
+    "slug": "interior-de-minas",
+    "cities": [
+      { "name": "Juiz de Fora", "slug": "juiz-de-fora" },
+      { "name": "Uberlândia", "slug": "uberlandia" }
     ]
   }
 ]

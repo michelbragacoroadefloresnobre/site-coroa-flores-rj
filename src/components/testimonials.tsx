@@ -55,7 +55,7 @@ export function Testimonials() {
           </div>
           <p className="text-[17px] text-[#4A4A4A]">
             <span className="font-bold text-[#2D5A3D]">+5.000</span> famílias
-            atendidas com cuidado em São Paulo
+            atendidas com cuidado em Belo Horizonte
           </p>
         </div>
 

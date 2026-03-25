@@ -9,7 +9,7 @@ export function LocationsHero() {
         </h1>
         <SectionOrnament className="mt-4" />
         <p className="mx-auto mt-4 max-w-[560px] text-lg text-[#555555]">
-          Entregamos coroas de flores em São Paulo e em toda a região
+          Entregamos coroas de flores em Belo Horizonte e em toda a região
           metropolitana, em até 1 hora.
         </p>
       </div>

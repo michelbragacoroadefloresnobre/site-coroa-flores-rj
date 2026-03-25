@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -r \"href\\\\|Link\" /home/luizpachioni/projetos/site-cf-sp/site-coroa-flores-sp/src/components/*.tsx)"
+    ]
+  }
+}

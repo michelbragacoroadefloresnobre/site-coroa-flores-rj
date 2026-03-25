@@ -29,7 +29,7 @@ export function buildLocalBusinessSchema(location: Location) {
       name: location.city,
       containedInPlace: {
         "@type": "State",
-        name: "São Paulo",
+        name: "Minas Gerais",
       },
     },
     openingHoursSpecification: {

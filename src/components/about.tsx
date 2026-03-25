@@ -22,7 +22,7 @@ export function About() {
             isso agora.
           </h2>
           <p className="mt-6 text-base leading-[1.7] text-[#6B6B6B]">
-            A Coroa de Flores Nobre trabalha em São Paulo e região metropolitana
+            A Coroa de Flores Nobre trabalha em Belo Horizonte e região metropolitana
             há anos atendendo famílias em momentos difíceis. Cada pedido é
             cuidado por alguém real, que entende o que está em jogo.
           </p>

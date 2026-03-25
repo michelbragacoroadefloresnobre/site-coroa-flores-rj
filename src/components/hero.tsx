@@ -39,7 +39,7 @@ export function Hero() {
           <span className="h-3.5 w-px bg-white/30 md:h-5" />
           <span className="flex items-center gap-1.5 text-[13px] font-medium text-white/90 md:gap-2 md:text-[18px]">
             <MapPin className="size-3.5 md:size-5" />
-            São Paulo e região
+            Belo Horizonte e região
           </span>
         </div>
 
@@ -47,7 +47,7 @@ export function Hero() {
           className="mt-7 max-w-[800px] font-serif text-[32px] leading-[1.15] font-bold text-white sm:text-[44px] md:text-[56px]"
           style={{ animation: "hero-fade-up 0.8s ease-out 0.15s both" }}
         >
-          Coroas de flores entregues em São Paulo com cuidado e no tempo certo.
+          Coroas de flores entregues em Belo Horizonte com cuidado e no tempo certo.
         </h1>
 
         <p

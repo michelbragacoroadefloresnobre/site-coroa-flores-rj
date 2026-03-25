@@ -13,7 +13,7 @@ export function LocationsCta() {
         </h2>
 
         <p className="mx-auto mt-4 max-w-[560px] text-[17px] text-[#6B6B6B]">
-          Atendemos outras cidades da Grande São Paulo e, em alguns casos,
+          Atendemos outras cidades da Grande Belo Horizonte e, em alguns casos,
           localidades no interior. Consulte a disponibilidade pelo WhatsApp.
         </p>
 

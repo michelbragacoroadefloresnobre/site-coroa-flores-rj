@@ -21,18 +21,18 @@ const baseUrl = getBaseUrl();
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
-    default: "Coroa de Flores Nobre | Entrega em São Paulo e Região",
+    default: "Coroa de Flores Nobre | Entrega em Belo Horizonte e Região",
     template: "%s | Coroa de Flores Nobre",
   },
   description:
-    "Entrega de coroa de flores em São Paulo e região metropolitana. Atendimento 24h, entrega em até 1 hora com foto antes da entrega.",
+    "Entrega de coroa de flores em Belo Horizonte e região metropolitana. Atendimento 24h, entrega em até 1 hora com foto antes da entrega.",
   alternates: {
     canonical: "/",
   },
   openGraph: {
-    title: "Coroa de Flores Nobre | Entrega em São Paulo e Região",
+    title: "Coroa de Flores Nobre | Entrega em Belo Horizonte e Região",
     description:
-      "Entrega de coroa de flores em São Paulo e região metropolitana. Atendimento 24h, entrega em até 1 hora com foto antes da entrega.",
+      "Entrega de coroa de flores em Belo Horizonte e região metropolitana. Atendimento 24h, entrega em até 1 hora com foto antes da entrega.",
     url: "/",
     siteName: "Coroa de Flores Nobre",
     locale: "pt_BR",
@@ -42,15 +42,15 @@ export const metadata: Metadata = {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Coroa de Flores Nobre — Entrega em São Paulo e Região",
+        alt: "Coroa de Flores Nobre — Entrega em Belo Horizonte e Região",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Coroa de Flores Nobre | Entrega em São Paulo e Região",
+    title: "Coroa de Flores Nobre | Entrega em Belo Horizonte e Região",
     description:
-      "Entrega de coroa de flores em São Paulo e região metropolitana. Atendimento 24h, entrega em até 1 hora com foto antes da entrega.",
+      "Entrega de coroa de flores em Belo Horizonte e região metropolitana. Atendimento 24h, entrega em até 1 hora com foto antes da entrega.",
     images: ["/og-image.jpg"],
   },
 };

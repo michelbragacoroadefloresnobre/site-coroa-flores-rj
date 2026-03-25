@@ -256,7 +256,7 @@ export function ProductQuickOrderModal({
                 type="text"
                 value={deliveryLocation}
                 onChange={(e) => setDeliveryLocation(e.target.value)}
-                placeholder="Ex: Cemitério São Paulo"
+                placeholder="Ex: Cemitério da Paz"
                 className="mt-1.5 w-full rounded-lg border border-[#E0E0E0] px-3 py-2.5 text-sm text-[#1C1C1C] placeholder:text-[#BEBEBE] focus:border-[#2D5A3D] focus:ring-1 focus:ring-[#2D5A3D] focus:outline-none"
               />
             </div>

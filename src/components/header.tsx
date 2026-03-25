@@ -53,7 +53,7 @@ export function Header() {
         <Link href="/" className="shrink-0">
           <Image
             src="/logo.webp"
-            alt="Coroa de Flores São Paulo"
+            alt="Coroa de Flores Belo Horizonte"
             width={160}
             height={40}
             className="h-10 w-auto"
