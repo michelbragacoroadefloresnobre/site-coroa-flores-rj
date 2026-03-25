@@ -52,7 +52,7 @@ export function Header() {
         {/* Logo */}
         <Link href="/" className="shrink-0">
           <Image
-            src="/logo.webp"
+            src="/logo.svg"
             alt="Coroa de Flores Belo Horizonte"
             width={160}
             height={40}

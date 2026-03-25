@@ -26,6 +26,9 @@ export const metadata: Metadata = {
   },
   description:
     "Entrega de coroa de flores em Belo Horizonte e região metropolitana. Atendimento 24h, entrega em até 1 hora com foto antes da entrega.",
+  icons: {
+    icon: "/icon.svg",
+  },
   alternates: {
     canonical: "/",
   },
