@@ -5,6 +5,8 @@ import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import { FloatingWhatsapp } from "@/components/floating-whatsapp";
 import { getBaseUrl } from "@/lib/base-url";
+import { Analytics } from "@vercel/analytics/next";
+
 import "./globals.css";
 
 const geistSans = Geist({
@@ -75,11 +77,12 @@ export default function RootLayout({
     >
       <GoogleTagManager gtmId="GTM-KRM7BLFS" />
       <body className="min-h-full flex flex-col">
-          <Header />
-          {children}
-          <Footer />
-          <FloatingWhatsapp />
-        </body>
+        <Header />
+        {children}
+        <Footer />
+        <FloatingWhatsapp />
+      </body>
+      <Analytics />
     </html>
   );
 }
