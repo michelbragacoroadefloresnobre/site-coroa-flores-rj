@@ -75,7 +75,7 @@ export default function RootLayout({
       lang="pt-BR"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
-      <GoogleTagManager gtmId="GTM-KRM7BLFS" />
+      <GoogleTagManager gtmId="GTM-WDJLM9HX" />
       <body className="min-h-full flex flex-col">
         <Header />
         {children}
