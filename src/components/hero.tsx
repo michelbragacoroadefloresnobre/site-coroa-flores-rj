@@ -39,7 +39,7 @@ export function Hero() {
           <span className="h-3.5 w-px bg-white/30 md:h-5" />
           <span className="flex items-center gap-1.5 text-[13px] font-medium text-white/90 md:gap-2 md:text-[18px]">
             <MapPin className="size-3.5 md:size-5" />
-            Belo Horizonte e região
+            Rio de Janeiro e região
           </span>
         </div>
 
@@ -47,14 +47,14 @@ export function Hero() {
           className="mt-7 max-w-[800px] font-serif text-[32px] leading-[1.15] font-bold text-white sm:text-[44px] md:text-[56px]"
           style={{ animation: "hero-fade-up 0.8s ease-out 0.15s both" }}
         >
-          Coroas de Flores para Velório em São Paulo com Entrega Rápida e Preço Justo.
+          Coroas de Flores para Velório no Rio de Janeiro com Entrega Rápida e Preço Justo.
         </h1>
 
         <p
           className="mt-6 max-w-[560px] text-lg text-white/90 md:text-xl"
           style={{ animation: "hero-fade-up 0.8s ease-out 0.3s both" }}
         >
-          Nós entregamos homenagens florais com pontualidade e respeito em toda São Paulo e região metropolitana.
+          Nós entregamos homenagens florais com pontualidade e respeito em todo o Rio de Janeiro e região metropolitana.
         </p>
 
         <a

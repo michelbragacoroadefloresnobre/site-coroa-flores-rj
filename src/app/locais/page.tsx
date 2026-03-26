@@ -6,14 +6,14 @@ import { LocationsCta } from "@/components/locations-cta";
 export const metadata: Metadata = {
   title: "Locais de Entrega",
   description:
-    "Entregamos coroas de flores em cemitérios, velórios e crematórios em Belo Horizonte e região metropolitana. Confira todos os locais de entrega.",
+    "Entregamos coroas de flores em cemitérios, velórios e crematórios em Rio de Janeiro e região metropolitana. Confira todos os locais de entrega.",
   alternates: {
     canonical: "/locais",
   },
   openGraph: {
     title: "Locais de Entrega | Coroa de Flores Nobre",
     description:
-      "Entregamos coroas de flores em cemitérios, velórios e crematórios em Belo Horizonte e região metropolitana.",
+      "Entregamos coroas de flores em cemitérios, velórios e crematórios em Rio de Janeiro e região metropolitana.",
     url: "/locais",
     siteName: "Coroa de Flores Nobre",
     locale: "pt_BR",

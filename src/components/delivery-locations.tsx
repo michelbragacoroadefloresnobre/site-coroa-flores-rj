@@ -22,7 +22,7 @@ export function DeliveryLocations() {
       <div className="relative mx-auto max-w-[1100px] text-center">
         {/* Header */}
         <h2 className="font-serif text-[32px] font-bold text-[#1C1C1C] md:text-[40px]">
-          Entregamos em Belo Horizonte e em toda a região metropolitana
+          Entregamos no Rio de Janeiro e em toda a região metropolitana
         </h2>
         <p className="mt-4 text-[17px] text-[#6B6B6B]">
           Cobertura ampla com entrega em até 1 hora. Veja se atendemos a sua

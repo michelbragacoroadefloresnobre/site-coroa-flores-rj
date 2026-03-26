@@ -1,49 +1,39 @@
 [
   {
-    "name": "Belo Horizonte — Capital",
-    "slug": "belo-horizonte",
+    "name": "Rio de Janeiro — Capital",
+    "slug": "rio-de-janeiro",
     "cities": [
-      { "name": "Centro", "slug": "centro" },
-      { "name": "Região Norte", "slug": "regiao-norte" },
-      { "name": "Região Sul", "slug": "regiao-sul" },
-      { "name": "Região Leste", "slug": "regiao-leste" },
-      { "name": "Região Oeste", "slug": "regiao-oeste" },
-      { "name": "Pampulha", "slug": "pampulha" }
+      { "name": "Zona Sul", "slug": "zona-sul" },
+      { "name": "Zona Norte", "slug": "zona-norte" },
+      { "name": "Zona Oeste", "slug": "zona-oeste" },
+      { "name": "Centro", "slug": "centro" }
     ]
   },
   {
-    "name": "Região Metropolitana — Oeste",
-    "slug": "regiao-metropolitana-oeste",
+    "name": "Região Metropolitana — Leste",
+    "slug": "regiao-metropolitana-leste",
     "cities": [
-      { "name": "Contagem", "slug": "contagem" },
-      { "name": "Betim", "slug": "betim" },
-      { "name": "Ibirité", "slug": "ibirite" }
+      { "name": "Niterói", "slug": "niteroi" },
+      { "name": "São Gonçalo", "slug": "sao-goncalo" },
+      { "name": "Itaboraí", "slug": "itaborai" },
+      { "name": "Magé", "slug": "mage" }
     ]
   },
   {
-    "name": "Região Metropolitana — Norte",
-    "slug": "regiao-metropolitana-norte",
+    "name": "Baixada Fluminense",
+    "slug": "baixada-fluminense",
     "cities": [
-      { "name": "Ribeirão das Neves", "slug": "ribeirao-das-neves" },
-      { "name": "Santa Luzia", "slug": "santa-luzia" },
-      { "name": "Vespasiano", "slug": "vespasiano" },
-      { "name": "Lagoa Santa", "slug": "lagoa-santa" }
+      { "name": "Duque de Caxias", "slug": "duque-de-caxias" },
+      { "name": "Nova Iguaçu", "slug": "nova-iguacu" },
+      { "name": "Belford Roxo", "slug": "belford-roxo" },
+      { "name": "São João de Meriti", "slug": "sao-joao-de-meriti" }
     ]
   },
   {
-    "name": "Região Metropolitana — Leste e Sul",
-    "slug": "regiao-metropolitana-leste-sul",
+    "name": "Região Serrana",
+    "slug": "regiao-serrana",
     "cities": [
-      { "name": "Sabará", "slug": "sabara" },
-      { "name": "Nova Lima", "slug": "nova-lima" }
-    ]
-  },
-  {
-    "name": "Interior de Minas",
-    "slug": "interior-de-minas",
-    "cities": [
-      { "name": "Juiz de Fora", "slug": "juiz-de-fora" },
-      { "name": "Uberlândia", "slug": "uberlandia" }
+      { "name": "Petrópolis", "slug": "petropolis" }
     ]
   }
 ]

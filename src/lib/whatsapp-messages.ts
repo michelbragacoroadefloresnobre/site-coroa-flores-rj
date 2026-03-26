@@ -1,4 +1,4 @@
-const SITE_TAG = "\n\n(Vim do site Coroa de Flores BH)";
+const SITE_TAG = "\n\n(Vim do site Coroa de Flores RJ)";
 
 export const whatsappMessages = {
   generalHelp:

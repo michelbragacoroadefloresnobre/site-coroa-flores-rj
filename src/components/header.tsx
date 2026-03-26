@@ -53,7 +53,7 @@ export function Header() {
         <Link href="/" className="shrink-0">
           <Image
             src="/logo.png"
-            alt="Coroa de Flores Belo Horizonte"
+            alt="Coroa de Flores Rio de Janeiro"
             width={200}
             height={200}
             className="w-36 h-auto"

@@ -1,7 +1,10 @@
+import { readFileSync } from "fs"
+import { join } from "path"
 import type { Location } from "@/types/location"
-import locationsData from "@/data/locations.json"
 
-const locations = locationsData as Location[]
+const locations: Location[] = JSON.parse(
+  readFileSync(join(process.cwd(), "src/data/locations.json"), "utf-8")
+)
 
 const locationsBySlug = new Map(locations.map((loc) => [loc.slug, loc]))
 
